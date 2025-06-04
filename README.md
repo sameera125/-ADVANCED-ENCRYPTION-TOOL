@@ -106,3 +106,10 @@ Task-4 is a crucial step in applying cybersecurity theory into practical, real-w
 
 OUTPUT : ![Image](https://github.com/user-attachments/assets/7c08e102-6eae-4a2b-8b16-416c291ce54c)
 
+![Image](https://github.com/user-attachments/assets/244422ee-db78-432b-9909-e8c0b291e89e)
+
+![Image](https://github.com/user-attachments/assets/fd0278cb-5b01-4199-825b-64fb8f29869d)
+
+![Image](https://github.com/user-attachments/assets/96003eca-9bd9-43c0-84c5-227a6f209eb4)
+
+![Image](https://github.com/user-attachments/assets/b15f99f0-1d7a-46ad-bffe-bd2c5482a26d)
