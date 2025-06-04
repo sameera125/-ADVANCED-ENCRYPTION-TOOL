@@ -104,6 +104,5 @@ Such a tool can be used in:
 
 Task-4 is a crucial step in applying cybersecurity theory into practical, real-world scenarios. The **Advanced Encryption Tool** offers interns the opportunity to not only enhance their Python programming and software design skills but also dive deep into the domain of encryption and secure file management. By implementing a working model of file encryption using AES-256, interns contribute to the creation of systems that uphold privacy, integrity, and data security—essential elements in today’s digital world.
 
-
 OUTPUT : ![Image](https://github.com/user-attachments/assets/7c08e102-6eae-4a2b-8b16-416c291ce54c)
 
